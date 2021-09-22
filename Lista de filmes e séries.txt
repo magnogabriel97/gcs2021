@@ -1,11 +1,11 @@
-? 10 ÚLTIMOS FILMES E SÉRIES QUE ASSISTI:
-1) Hannibal
-2) O contador
-3) Os croods 2
-4) Space Jam 2
-5) Familia Adams
-6) O protetor
-7) A origem
-8) Panic
-9) Ozark
-10) Coração de ferro
+- 10 ÚLTIMOS FILMES E SÉRIES QUE ASSISTI:
+1) Hannibal - 2016
+2) O contador - 2019
+3) Os croods 2 - 2020
+4) Space Jam 2 - 2021
+5) Familia Adams - 2019
+6) O protetor - 2017
+7) A origem - 2016
+8) Panic - 2021
+9) Ozark - 2017
+10) Coração de ferro - 2017

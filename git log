@@ -1,0 +1,24 @@
+[33mcommit 30907b5f55cc2e154b7bb104ccad90f847515177[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: magnogabriel97 <magno.giovanni1@gmail.com>
+Date:   Wed Sep 22 19:49:55 2021 -0300
+
+    Lista inicial de filmes
+
+[1mdiff --git "a/Lista de filmes e s\303\251ries.txt" "b/Lista de filmes e s\303\251ries.txt"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b0d03c2[m
+[1m--- /dev/null[m
+[1m+++ "b/Lista de filmes e s\303\251ries.txt"[m	
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m? 10 ÚLTIMOS FILMES E SÉRIES QUE ASSISTI:[m
+[32m+[m[32m1) Hannibal[m
+[32m+[m[32m2) O contador[m
+[32m+[m[32m3) Os croods 2[m
+[32m+[m[32m4) Space Jam 2[m
+[32m+[m[32m5) Familia Adams[m
+[32m+[m[32m6) O protetor[m
+[32m+[m[32m7) A origem[m
+[32m+[m[32m8) Panic[m
+[32m+[m[32m9) Ozark[m
+[32m+[m[32m10) Coração de ferro[m
+\ No newline at end of file[m
